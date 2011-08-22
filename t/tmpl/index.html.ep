@@ -1,0 +1,1 @@
+Index tmpl file, stash i = <%= $i %>.

@@ -1,0 +1,27 @@
+---
+abstract: 'Loader of any Mojolicious Controller Modules in a standalone script'
+author:
+  - 'Anatoly Sharifulin <sharifulin@gmail.com>'
+configure_requires:
+  Module::Build: 0.36
+generated_by: 'Module::Build version 0.3603'
+keywords:
+  - mojo
+  - mojolicious
+  - loader
+  - controller
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: MojoX-Loader
+provides:
+  MojoX::Loader:
+    file: lib/MojoX/Loader.pm
+    version: 0.01
+requires:
+  Mojolicious: 1.31
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: http://github.com/sharifulin/mojox-loader
+version: 0.01

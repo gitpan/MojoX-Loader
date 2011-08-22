@@ -1,0 +1,12 @@
+Build.PL
+Changes
+lib/MojoX/Loader.pm
+Makefile.PL
+MANIFEST
+META.yml
+README.pod
+t/App.pm
+t/App/Test.pm
+t/App2.pm
+t/mojox-loader.t
+t/tmpl/index.html.ep
